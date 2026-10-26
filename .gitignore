@@ -1,0 +1,22 @@
+# Compilados Java
+*.class
+bin/
+out/
+target/
+build/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários de persistência local de teste
+dados_teste/
+*.tmp
