@@ -58,8 +58,6 @@ CineTrinta/
 
 ## 🏗️ Arquitetura, Diagrama de Classes e Fluxograma
 
-Abaixo estão os diagramas de **visão geral** do CineTrinta. Para evitar diagramas ilegíveis no README, o detalhamento completo (atributos, assinaturas de métodos, enumerações, exceções e fluxos específicos de cada regra de negócio) foi separado em arquivos dedicados na pasta `docs/`:
-
 * 🧱 **[Diagramas de Classes UML Detalhados (`docs/diagrama-de-classes.md`)](docs/diagrama-de-classes.md)** — Visão modular completa de todos os 8 pacotes (`RF01`–`RF06` e `exceptions`).
 * 🔀 **[Fluxogramas Detalhados e Máquina de Estados (`docs/fluxogramas.md`)](docs/fluxogramas.md)** — Fluxos passo a passo de Persistência, Login/`RN01`, Catálogo/`RN02`/Player (`EstadoPlayer`) e Engajamento/`RN03`.
 
